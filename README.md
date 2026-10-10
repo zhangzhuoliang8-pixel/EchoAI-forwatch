@@ -4,7 +4,7 @@
 
 > 本仓库**只发布 release 安装包，不含源码**。每个版本的安装包都在 [Releases](https://github.com/zhangzhuoliang8-pixel/EchoAI-forwatch/releases) 页面。
 
-- 官网：<https://echoai1.xyz>
+
 - 反馈邮箱：echoai_xyz@outlook.com
 
 ## ⬇️ 下载最新版
