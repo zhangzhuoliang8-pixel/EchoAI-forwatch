@@ -1,6 +1,6 @@
 # 回声AI · Echo AI
 
-专为 **Android 手机 / Wear OS 手表**打造的 AI 助手。
+专为 **Android / Wear OS 手表**打造的 AI 助手。
 
 > 本仓库**只发布 release 安装包，不含源码**。每个版本的安装包都在 [Releases](https://github.com/zhangzhuoliang8-pixel/EchoAI-forwatch/releases) 页面。
 
